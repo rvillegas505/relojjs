@@ -1,0 +1,41 @@
+body {
+    background-color: #C8A2DB;
+    font-family: Verdana, sans-serif;
+}
+
+.sreloj {
+    display: flex;
+}
+
+#divdetodo {
+    flex: 1;
+    min-width: 275px;
+    min-height: 400px;
+    text-align: center;
+    margin: 40px;
+    padding: 20px;
+    background-color: #4B285C;
+    border-radius: 5%;
+}
+
+#boton {
+    color: #5A6870;
+    font-weight: bold;
+    margin-top: 40px;
+    background-color: #C8A2DB;
+    flex: 1;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 10%;
+}
+
+#divhora {
+    flex: 1;
+    border-style: solid;
+    background-color: #C8A2DB;
+    min-width: 275px;
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 30px;
+}
