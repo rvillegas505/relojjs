@@ -1,6 +1,6 @@
 'use strict';
 
-
+//by rodrigo villegas /rodiivv
 
 const divhora = document.querySelector('#divhora');
 const boton = document.querySelector('#boton');
