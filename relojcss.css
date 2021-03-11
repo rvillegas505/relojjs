@@ -9,17 +9,18 @@ body {
 
 #divdetodo {
     flex: 1;
-    min-width: 275px;
-    min-height: 400px;
+    width: 300px;
+    height: 300px;
     text-align: center;
     margin: 40px;
     padding: 20px;
     background-color: #4B285C;
-    border-radius: 5%;
+    border-radius: 15%;
+    box-shadow: 0 0 40px gray;
 }
 
 #boton {
-    color: #5A6870;
+    color: #4B285C;
     font-weight: bold;
     margin-top: 40px;
     background-color: #C8A2DB;
@@ -38,4 +39,5 @@ body {
     margin-left: 50px;
     margin-right: 50px;
     font-size: 30px;
+    box-shadow: 0 0 10px gray;
 }
