@@ -1,5 +1,5 @@
 body {
-    background-color: #C8A2DB;
+    background-color: #FFE6FF;
     font-family: Verdana, sans-serif;
 }
 
@@ -9,8 +9,8 @@ body {
 
 #divdetodo {
     flex: 1;
-    width: 300px;
-    height: 300px;
+    width: 50vw;
+    height: 50vh;
     text-align: center;
     margin: 40px;
     padding: 20px;
