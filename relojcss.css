@@ -22,10 +22,10 @@ body {
 #boton {
     color: #4B285C;
     font-weight: bold;
-    margin-top: 40px;
+    margin-top: 3rem;
     background-color: #C8A2DB;
     flex: 1;
-    height: 50px;
+    height: 3.1rem;
     font-size: 0.9rem;
     border-radius: 10%;
 }
@@ -35,9 +35,9 @@ body {
     border-style: solid;
     background-color: #C8A2DB;
     width: auto;
-    margin-top: 80px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-top: 5rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     font-size: 1.6rem;
     box-shadow: 0 0 5px gray;
 }
