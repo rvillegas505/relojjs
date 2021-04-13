@@ -12,8 +12,8 @@ body {
     width: 50vw;
     height: 50vh;
     text-align: center;
-    margin: 40px;
-    padding: 20px;
+    margin: 3rem;
+    padding: 1.8rem;
     background-color: #4B285C;
     border-radius: 15%;
     box-shadow: 0 0 40px gray;
@@ -26,7 +26,7 @@ body {
     background-color: #C8A2DB;
     flex: 1;
     height: 50px;
-    font-size: 15px;
+    font-size: 0.9rem;
     border-radius: 10%;
 }
 
@@ -34,10 +34,10 @@ body {
     flex: 1;
     border-style: solid;
     background-color: #C8A2DB;
-    min-width: 275px;
+    width: auto;
     margin-top: 80px;
     margin-left: 50px;
     margin-right: 50px;
-    font-size: 30px;
-    box-shadow: 0 0 10px gray;
+    font-size: 1.6rem;
+    box-shadow: 0 0 5px gray;
 }
